@@ -11,7 +11,7 @@ const franco = {
             js: ["React", "Redux", "Next.js"],
             css: ["Bootstrap", "Bulma", "Chakra-UI", "Framer Motion"]
         },
-        backEnd: ["Node.js", "Express", "Sequelize"],
+        backEnd: ["Node.js", "Express", "Sequelize", "Mongoose"],
         databases: ["PostgreSQL, MongoDB"],
     }
 };
