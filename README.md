@@ -12,7 +12,7 @@ const franco = {
             css: ["Bootstrap", "Bulma", "Chakra-UI", "Framer Motion"]
         },
         backEnd: ["Node.js", "Express", "Sequelize"],
-        databases: ["PostgreSQL"],
+        databases: ["PostgreSQL, MongoDB"],
     }
 };
 ```
