@@ -2,8 +2,6 @@
 
 Hi there, thanks for stopping by, this is **Franco Livelli**.
 
-<img align='right' src="https://user-images.githubusercontent.com/109685663/212565171-13e37a20-8cdc-4ceb-9a49-166353d6c1c5.gif" width="230">
-
 ```javascript
 const franco = {
     technologies: {
